@@ -1,5 +1,4 @@
 # SPCA
-Automated Skin Lesion Segmentation via Image-wise Supervised Learning and Multi-scale Superpixel Based Cellular Automata
 =====================================================================================================================================
 You are free to use this code for any non-commrecial purposes.
 If you use this code,please also cite our paper in your publications:
