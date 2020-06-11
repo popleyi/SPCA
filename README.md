@@ -1,5 +1,4 @@
 # SPCA
-=====================================================================================================================================
 You are free to use this code for any non-commrecial purposes.
 If you use this code,please also cite our paper in your publications:
 	
